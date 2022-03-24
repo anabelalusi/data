@@ -1,4 +1,9 @@
-## Hi there! I'm Annie :sunflower:
+## Hi there :wave:, I'm Annie :sunflower:
 
-:woman_student: Degree in Environmental Science
-:woman_technologist: 
+:woman_student: PhD student
+
+:seedling: Solar energy research's
+
+:woman_technologist: Data Science 
+
+:sunrise_over_mountains: Travel lover
